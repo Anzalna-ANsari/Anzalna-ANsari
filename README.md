@@ -1,17 +1,5 @@
-<h1 align="center">👋 Hey, I'm Anzalna Ansari</h1>
-
 <div align="center">
-  <a href="https://anzalna-dev.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+React+Native;Building+Scalable+SaaS+%26+Mobile+Apps;Open+to+Freelance+%26+Remote+Work" alt="Typing SVG"/>
-  </a>
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anzalna-ansari-6990b7329/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://anzalna-dev.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anzalnaansari55@gmail.com)
-
+  <img src="https://raw.githubusercontent.com/Anzalna-ANsari/Anzalna-ANsari/main/Github%20BAnner%20%282%29.png" width="100%" alt="Anzalna Ansari banner"/>
 </div>
 
 ---
