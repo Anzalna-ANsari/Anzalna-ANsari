@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mrsaqib44/mrsaqib44/main/Saqib%27s%20Github%20Banner.png" alt="Muhammad Saqib - Full Stack Engineer" width="100%" style="border-radius: 15px;"/>
-</div>
-
 <h1 align="center">👋 Hey, I'm Anzalna Ansari</h1>
 
 <div align="center">
